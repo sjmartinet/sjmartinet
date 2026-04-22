@@ -1,23 +1,23 @@
 <div align="center">
 
-# ¡Hola, soy Samuel Martinez! 🐉⚡
+# ¡Hola, soy Samuel Martinez! 
 
-### Estudiante de Ingeniería de Sistemas en EAFIT | Developer en entrenamiento | Pensador Lógico
+### Estudiante de Ingeniería de Sistemas | Web Developer en entrenamiento | UI/UX Enthusiast
 
 <img src="https://media.giphy.com/media/WOb8EeFziTQNE02WCG/giphy.gif" width="250" />
 
-*"Los límites solo existen si te rindes antes de compilar."* </div>
+*"Elevando mi Ki, una línea de código a la vez."* </div>
 
 ---
 
-## 🥋 Mi Entrenamiento Actual (Acerca de mí)
+## 🥋 Mi Entrenamiento Actual 
 
-Soy un estudiante de 2° semestre de Ingeniería de Sistemas en la **Universidad EAFIT**. Me apasiona la resolución de problemas complejos mediante lógica pura y el análisis de datos. Mi objetivo es llevar mi "Ki" de programación al nivel de la **Analítica Cuantitativa** y el **Desarrollo de Software de Alto Impacto**.
+Soy estudiante de 2° semestre de Ingeniería de Sistemas en la **Universidad EAFIT**. He encontrado mi verdadero terreno de combate en el **Desarrollo Web**, el lugar perfecto donde puedo fusionar la lógica pura con el diseño visual para crear sitios que las personas realmente disfruten usar.
 
-- 🌱 **Actualmente dominando:** Paradigmas Funcionales y Lógicos (**Haskell**, **Prolog**) y subiendo de nivel en **Python**.
-- 🚀 **Saga actual (Proyectos):** Liderando el diseño y arquitectura de **Caminantes EAFIT** (UI/UX y modelo de servicio).
-- 🏀 **Entrenamiento en gravedad aumentada:** Analizando datos deportivos para crear modelos predictivos.
-- ⚡ **Dato curioso:** Si no estoy optimizando código, probablemente estoy diseñando infraestructuras en 3D (SolidWorks).
+- 🌱 **Entrenamiento actual:** Llevando mis habilidades al límite con **Ultimate Python**, explorando la infraestructura en la nube con **AWS** y estructurando datos con formatos como **TOON**.
+- 🎨 **Estilo de combate:** Creación de sitios web personalizados desde cero y diseño de experiencias intuitivas enfocadas en el usuario final.
+- 🚀 **Mi filosofía:** El código no solo debe funcionar, debe verse bien y resolver problemas reales.
+- ⚡ **Dato curioso:** Si no estoy maquetando una interfaz o ajustando el backend, probablemente me encuentres diseñando modelados en 3D (SolidWorks).
 
 ---
 
@@ -25,15 +25,18 @@ Soy un estudiante de 2° semestre de Ingeniería de Sistemas en la **Universidad
 
 <div align="center">
 
-### Lenguajes y Paradigmas
+### Desarrollo y Lenguajes
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white)
-![Prolog](https://img.shields.io/badge/Prolog-000000?style=for-the-badge&logo=prolog&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-### Herramientas y Diseño
+### Herramientas y Nube
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+### Diseño y Modelado
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![SolidWorks](https://img.shields.io/badge/SolidWorks-E32227?style=for-the-badge&logo=DassaultSyst%C3%A8mes&logoColor=white)
 
@@ -41,23 +44,9 @@ Soy un estudiante de 2° semestre de Ingeniería de Sistemas en la **Universidad
 
 ---
 
-## 📊 Mi Rastreador de Poder (GitHub Stats)
-
-<div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=sjmartinet&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Estadísticas de Samuel" />
-  
-  <br/>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sjmartinet&theme=tokyonight&hide_border=true&background=0D1117" alt="Racha de contribuciones" />
-
-</div>
-
----
-
 ## 🤝 ¡Hagamos la Fusión!
 
-¿Quieres hablar sobre código, análisis de datos, o estrategias cuantitativas? ¡Conectemos!
+Siempre estoy buscando nuevos retos, aprender nuevas herramientas web o simplemente hablar de tecnología y diseño. ¡Conectemos!
 
 <div align="center">
   <a href="https://www.linkedin.com/in/samuel-martinez-torres-2718b73bb">
