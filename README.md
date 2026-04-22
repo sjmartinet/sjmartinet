@@ -1,8 +1,8 @@
 <div align="center">
 
-# ¡Hola, soy Samuel Martinez! 
+# ¡Hola, soy Samuel Martinez! 🐉⚡
 
-### Estudiante de Ingeniería de Sistemas | Web Developer en entrenamiento | UI/UX Enthusiast
+### Estudiante de Ingeniería de Sistemas | Web Developer en entrenamiento
 
 <img src="https://media.giphy.com/media/WOb8EeFziTQNE02WCG/giphy.gif" width="250" />
 
@@ -12,12 +12,12 @@
 
 ## 🥋 Mi Entrenamiento Actual 
 
-Soy estudiante de 2° semestre de Ingeniería de Sistemas en la **Universidad EAFIT**. He encontrado mi verdadero terreno de combate en el **Desarrollo Web**, el lugar perfecto donde puedo fusionar la lógica pura con el diseño visual para crear sitios que las personas realmente disfruten usar.
+Soy estudiante de 2° semestre de Ingeniería de Sistemas en la **Universidad EAFIT**. He encontrado mi verdadero terreno de combate en el **Desarrollo Web**, el lugar perfecto donde puedo fusionar la lógica con la estructura para crear sitios que las personas realmente disfruten usar.
 
 - 🌱 **Entrenamiento actual:** Llevando mis habilidades al límite con **Ultimate Python**, explorando la infraestructura en la nube con **AWS** y estructurando datos con formatos como **TOON**.
-- 🎨 **Estilo de combate:** Creación de sitios web personalizados desde cero y diseño de experiencias intuitivas enfocadas en el usuario final.
-- 🚀 **Mi filosofía:** El código no solo debe funcionar, debe verse bien y resolver problemas reales.
-- ⚡ **Dato curioso:** Si no estoy maquetando una interfaz o ajustando el backend, probablemente me encuentres diseñando modelados en 3D (SolidWorks).
+- 🎨 **Estilo de combate:** Creación de sitios web personalizados desde cero, enfocándome en que el producto final sea intuitivo y fluido.
+- 🚀 **Mi filosofía:** El código no solo debe funcionar, debe resolver problemas reales de manera eficiente.
+- ⚡ **Dato curioso:** Entrenando todos los días para que la carga de mis páginas web sea tan rápida como la teletransportación de Goku.
 
 ---
 
@@ -36,17 +36,13 @@ Soy estudiante de 2° semestre de Ingeniería de Sistemas en la **Universidad EA
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-### Diseño y Modelado
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![SolidWorks](https://img.shields.io/badge/SolidWorks-E32227?style=for-the-badge&logo=DassaultSyst%C3%A8mes&logoColor=white)
-
 </div>
 
 ---
 
 ## 🤝 ¡Hagamos la Fusión!
 
-Siempre estoy buscando nuevos retos, aprender nuevas herramientas web o simplemente hablar de tecnología y diseño. ¡Conectemos!
+Siempre estoy buscando nuevos retos, aprender nuevas tecnologías web o simplemente hablar de código. ¡Conectemos!
 
 <div align="center">
   <a href="https://www.linkedin.com/in/samuel-martinez-torres-2718b73bb">
