@@ -2,7 +2,7 @@
 
 # ¡Hola, soy Samuel Martinez! 🐉⚡
 
-### Estudiante de Ingeniería de Sistemas | Developer en entrenamiento | Pensador Lógico
+### Estudiante de Ingeniería de Sistemas en EAFIT | Developer en entrenamiento | Pensador Lógico
 
 <img src="https://media.giphy.com/media/WOb8EeFziTQNE02WCG/giphy.gif" width="250" />
 
@@ -12,12 +12,12 @@
 
 ## 🥋 Mi Entrenamiento Actual (Acerca de mí)
 
-Soy un estudiante de 2° semestre de Ingeniería de Sistemas en la Universidad EAFIT, Medellín. Me apasiona la resolución de problemas complejos mediante lógica pura y el análisis de datos. Mi objetivo es llevar mi "Ki" de programación al nivel de la **Analítica Cuantitativa** y el **Desarrollo de Software de Alto Impacto**.
+Soy un estudiante de 2° semestre de Ingeniería de Sistemas en la **Universidad EAFIT**. Me apasiona la resolución de problemas complejos mediante lógica pura y el análisis de datos. Mi objetivo es llevar mi "Ki" de programación al nivel de la **Analítica Cuantitativa** y el **Desarrollo de Software de Alto Impacto**.
 
 - 🌱 **Actualmente dominando:** Paradigmas Funcionales y Lógicos (**Haskell**, **Prolog**) y subiendo de nivel en **Python**.
 - 🚀 **Saga actual (Proyectos):** Liderando el diseño y arquitectura de **Caminantes EAFIT** (UI/UX y modelo de servicio).
-- 🏀 **Entrenamiento en gravedad aumentada:** Analizando datos deportivos (NBA/Fútbol) para crear modelos predictivos.
-- ⚡ **Dato curioso:** Si no estoy optimizando código, probablemente estoy diseñando infraestructuras en 3D (SolidWorks) o pensando en la próxima gran idea.
+- 🏀 **Entrenamiento en gravedad aumentada:** Analizando datos deportivos para crear modelos predictivos.
+- ⚡ **Dato curioso:** Si no estoy optimizando código, probablemente estoy diseñando infraestructuras en 3D (SolidWorks).
 
 ---
 
@@ -45,15 +45,13 @@ Soy un estudiante de 2° semestre de Ingeniería de Sistemas en la Universidad E
 
 <div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=TU-USUARIO-AQUI&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Estadísticas de Samuel" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sjmartinet&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Estadísticas de Samuel" />
   
   <br/>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU-USUARIO-AQUI&theme=tokyonight&hide_border=true&background=0D1117" alt="Racha de contribuciones" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sjmartinet&theme=tokyonight&hide_border=true&background=0D1117" alt="Racha de contribuciones" />
 
 </div>
-
-> **⚠️ Nota de entrenamiento:** *Reemplaza `TU-USUARIO-AQUI` en los enlaces de arriba con tu nombre de usuario real de GitHub para que el rastreador muestre tu nivel de poder exacto.*
 
 ---
 
@@ -62,7 +60,7 @@ Soy un estudiante de 2° semestre de Ingeniería de Sistemas en la Universidad E
 ¿Quieres hablar sobre código, análisis de datos, o estrategias cuantitativas? ¡Conectemos!
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/samuel-martinez-sistemas">
+  <a href="https://www.linkedin.com/in/samuel-martinez-torres-2718b73bb">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
