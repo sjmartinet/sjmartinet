@@ -1,96 +1,73 @@
 <div align="center">
 
-```
-⠀⠀⠀⠀⠀⢀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⡀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⢰⣿⣷⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣼⣿⣿⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠈⢿⣿⣿⣦⡀⠀⠀⠀⠀⠀⠀⠀⣠⣾⣿⣿⠏⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠙⢿⣿⣿⣷⣄⠀⠀⠀⢀⣼⣿⣿⡿⠋⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠙⢿⣿⣿⣷⣄⣴⣿⣿⣿⠛⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠛⣿⣿⣿⣿⣿⣿⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣴⣿⣿⣿⣿⣿⣿⣦⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⣠⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣄⠀⠀
-⣼⣿⠟⠋⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠻⣿⣦
-⣿⡇⠀⠀ 🔥GOKU  💥 VS 💥  FREEZER🧊 ⠀⠀⢸⣿
-⣼⣿⣦⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣤⣿⡟
-⠀⠻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠋⠀
-```
+# ¡Hola, soy Samuel Martinez! 🐉⚡
 
-# ⚡ Samuel Martinez · `sjmartinet` ⚡
+### Estudiante de Ingeniería de Sistemas | Developer en entrenamiento | Pensador Lógico
 
-### *"El poder de un Super Saiyan... en cada línea de código"*
+<img src="https://media.giphy.com/media/WOb8EeFziTQNE02WCG/giphy.gif" width="250" />
+
+*"Los límites solo existen si te rindes antes de compilar."* </div>
 
 ---
 
-```
- GOKU                              FREEZER
- ┌─────────────────┐               ┌─────────────────┐
- │  ░░░░░░░░░░░░░░ │               │  ███████████████ │
- │  HP ████████░░  │   KAMEHAMEHA  │  HP ███░░░░░░░░  │
- │  KI ██████████  │ ══════════►   │  KI ██░░░░░░░░░  │
- │  LVL: SSJ3  ⚡  │    🌊💥🌊    │  LVL: Final 🧊  │
- └─────────────────┘               └─────────────────┘
-        ↑ Desarrollador                  ↑ Bug en prod
-```
+## 🥋 Mi Entrenamiento Actual (Acerca de mí)
+
+Soy un estudiante de 2° semestre de Ingeniería de Sistemas en la Universidad EAFIT, Medellín. Me apasiona la resolución de problemas complejos mediante lógica pura y el análisis de datos. Mi objetivo es llevar mi "Ki" de programación al nivel de la **Analítica Cuantitativa** y el **Desarrollo de Software de Alto Impacto**.
+
+- 🌱 **Actualmente dominando:** Paradigmas Funcionales y Lógicos (**Haskell**, **Prolog**) y subiendo de nivel en **Python**.
+- 🚀 **Saga actual (Proyectos):** Liderando el diseño y arquitectura de **Caminantes EAFIT** (UI/UX y modelo de servicio).
+- 🏀 **Entrenamiento en gravedad aumentada:** Analizando datos deportivos (NBA/Fútbol) para crear modelos predictivos.
+- ⚡ **Dato curioso:** Si no estoy optimizando código, probablemente estoy diseñando infraestructuras en 3D (SolidWorks) o pensando en la próxima gran idea.
 
 ---
 
-## 🏆 Estadísticas de Batalla
+## 🔮 Las Esferas del Dragón (Tech Stack)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sjmartinet&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0d0d&title_color=ff6b00&icon_color=ffcc00&text_color=ffffff"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sjmartinet&layout=compact&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=ff6b00&text_color=ffffff"/>
+<div align="center">
 
----
+### Lenguajes y Paradigmas
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white)
+![Prolog](https://img.shields.io/badge/Prolog-000000?style=for-the-badge&logo=prolog&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
-## ⚡ Nivel de Poder (Tech Stack)
+### Herramientas y Diseño
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![SolidWorks](https://img.shields.io/badge/SolidWorks-E32227?style=for-the-badge&logo=DassaultSyst%C3%A8mes&logoColor=white)
 
-```
-React Native  ████████████████████  MASTERED
-Firebase      ██████████████████░░  SSJ2
-TypeScript    ████████████████░░░░  SSJ1
-Python        ██████████████░░░░░░  ENTRENANDO
-Node.js       ████████████░░░░░░░░  APRENDIZ
-```
-
-### 🔥 Ataques Especiales (Herramientas)
-
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Firebase](https://img.shields.io/badge/Firebase-FF9900?style=for-the-badge&logo=firebase&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+</div>
 
 ---
 
-## 🌟 Proyecto Estelar
+## 📊 Mi Rastreador de Poder (GitHub Stats)
 
-```
-┌──────────────────────────────────────────────────────┐
-│  🚌 CAMINANTES EAFIT                                 │
-│  ─────────────────────────────────────────────────── │
-│  App de movilidad universitaria en tiempo real       │
-│  GPS tracking · Alertas push · Chat grupal          │
-│                                                      │
-│  Stack: React Native · Expo · Firebase · Maps       │
-│  Status: 🟢 EN VIVO                                 │
-│  URL: https://caminantes-eafit-82b14.web.app        │
-└──────────────────────────────────────────────────────┘
-```
+<div align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=TU-USUARIO-AQUI&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Estadísticas de Samuel" />
+  
+  <br/>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU-USUARIO-AQUI&theme=tokyonight&hide_border=true&background=0D1117" alt="Racha de contribuciones" />
 
----
+</div>
 
-## 📡 Rastreo de Actividad
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=sjmartinet&theme=dark&hide_border=true&background=0D0D0D&ring=FF6B00&fire=FFCC00&currStreakLabel=FF6B00)](https://git.io/streak-stats)
+> **⚠️ Nota de entrenamiento:** *Reemplaza `TU-USUARIO-AQUI` en los enlaces de arriba con tu nombre de usuario real de GitHub para que el rastreador muestre tu nivel de poder exacto.*
 
 ---
 
-```
-   「 El que no entrena, no puede superar sus límites 」
-                                       — Son Goku
-                                  (y también Samuel)
-```
+## 🤝 ¡Hagamos la Fusión!
 
-<img src="https://komarev.com/ghpvc/?username=sjmartinet&color=orange&style=flat-square&label=VISITAS+DEL+PLANET+NAMEK"/>
+¿Quieres hablar sobre código, análisis de datos, o estrategias cuantitativas? ¡Conectemos!
 
+<div align="center">
+  <a href="https://www.linkedin.com/in/samuel-martinez-sistemas">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+
+<div align="center">
+  <br>
+  <img src="https://media.giphy.com/media/19JSJ5ucu91R5D7a3w/giphy.gif" width="150" />
 </div>
