@@ -12,7 +12,7 @@
 
 ## 🥋 Mi Entrenamiento Actual 
 
-Soy estudiante de 2° semestre de Ingeniería de Sistemas en la **Universidad EAFIT**. He encontrado mi verdadero terreno de combate en el **Desarrollo Web**, el lugar perfecto donde puedo fusionar la lógica con la estructura para crear sitios que las personas realmente disfruten usar.
+Soy estudiante de 3° semestre de Ingeniería de Sistemas en la **Universidad EAFIT**. He encontrado mi verdadero terreno de combate en el **Desarrollo Web**, el lugar perfecto donde puedo fusionar la lógica con la estructura para crear sitios que las personas realmente disfruten usar.
 
 - 🌱 **Entrenamiento actual:** Llevando mis habilidades al límite con **Ultimate Python**, explorando la infraestructura en la nube con **AWS** y estructurando datos con formatos como **TOON**.
 - 🎨 **Estilo de combate:** Creación de sitios web personalizados desde cero, enfocándome en que el producto final sea intuitivo y fluido.
