@@ -10,9 +10,9 @@
 
 ---
 
-Soy estudiante de 3° semestre de Ingeniería de Sistemas en la **Universidad EAFIT*
+Soy estudiante de 3° semestre de Ingeniería de Sistemas en la **Universidad EAFIT*.
 
-
+##
 
 Siempre estoy buscando nuevos retos, aprender nuevas tecnologías web o simplemente hablar de código. ¡Conectemos!
 
