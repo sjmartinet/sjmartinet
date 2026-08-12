@@ -10,9 +10,9 @@
 
 ---
 
-Soy estudiante de 3° semestre de Ingeniería de Sistemas en la **Universidad EAFIT**. He encontrado mi verdadero terreno de combate en el **Desarrollo Web**, el lugar perfecto donde puedo fusionar la lógica con la estructura para crear sitios que las personas realmente disfruten usar.
+Soy estudiante de 3° semestre de Ingeniería de Sistemas en la **Universidad EAFIT*
 
-## 🤝 ¡Hagamos la Fusión!
+
 
 Siempre estoy buscando nuevos retos, aprender nuevas tecnologías web o simplemente hablar de código. ¡Conectemos!
 
