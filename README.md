@@ -10,7 +10,7 @@
 
 ---
 
-Soy estudiante de 3° semestre de Ingeniería de Sistemas en la **Universidad EAFIT*.
+Soy estudiante de 3° semestre de Ingeniería de Sistemas en la **Universidad EAFIT**
 
 ##
 
